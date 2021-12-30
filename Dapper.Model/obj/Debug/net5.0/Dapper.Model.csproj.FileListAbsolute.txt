@@ -1,0 +1,12 @@
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\bin\Debug\net5.0\Dapper.Model.deps.json
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\bin\Debug\net5.0\Dapper.Model.dll
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\bin\Debug\net5.0\ref\Dapper.Model.dll
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\bin\Debug\net5.0\Dapper.Model.pdb
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\obj\Debug\net5.0\Dapper.Model.csproj.AssemblyReference.cache
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\obj\Debug\net5.0\Dapper.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\obj\Debug\net5.0\Dapper.Model.AssemblyInfoInputs.cache
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\obj\Debug\net5.0\Dapper.Model.AssemblyInfo.cs
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\obj\Debug\net5.0\Dapper.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\obj\Debug\net5.0\Dapper.Model.dll
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\obj\Debug\net5.0\ref\Dapper.Model.dll
+C:\Users\DELL G3\source\repos\DapperWithCore5\Dapper.Model\obj\Debug\net5.0\Dapper.Model.pdb
